@@ -30,6 +30,7 @@ local.properties
 *.iml
 *.hprof
 google-services.json
+.env
 
 # node.js
 #
